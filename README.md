@@ -1,6 +1,6 @@
 # Bike accident map
 
-(michaelSederlin.github.io/bike-traffic-accidents)
+[Bike traffic accidents](michaelSederlin.github.io/bike-traffic-accidents)
 
 Just a small map made from Stockholm Stads traffic accident data provided on their open data platform. 
 
